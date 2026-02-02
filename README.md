@@ -1,4 +1,4 @@
-# DSG-RRT*: Deep Spatial Guidance Framework for Robot Social Cruising in Dynamic Scenarios
+# Socially aware navigation requires robots to actively interact with human groups while ensuring safety in dynamic environments. To address this, we propose a hierarchical framework that orchestrates global interaction scheduling with local neural-augmented trajectory generation. 
 
 This repository hosts the supplementary subjective evaluation questionnaire for the research paper:
 

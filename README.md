@@ -43,7 +43,7 @@ The scale has been rigorously tested in our study involving **17 volunteers** ac
     * Cronbach's $\alpha$: **0.767** (indicating satisfactory reliability).
 * **Construct Validity (Factor Analysis):**
     * KMO Measure of Sampling Adequacy: **0.753**.
-    * Bartlett's Test of Sphericity: $\chi^2 = 126.57$, $df = 28$, $p < 0.001$.
+    * Bartlett's Test of Sphericity: **$\chi^2 = 126.57$, $df = 28$, $p < 0.001$**.
 
 ---
 

@@ -8,7 +8,7 @@ This repository hosts the official implementation and supplementary materials fo
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 This repository is organized to distinguish between the core source code and the recorded experimental data:
 
@@ -32,7 +32,7 @@ This repository is organized to distinguish between the core source code and the
 
 ---
 
-## 📊 Subjective Evaluation (SN-1 Scale)
+## Subjective Evaluation (SN-1 Scale)
 
 The **SN-1 scale** (included as `SN-1 scale.pdf`) is a 5-point Likert scale (1 = Strongly Disagree, 5 = Strongly Agree) designed to validate the **social compliance** of the robot. The scale comprises eight items addressing four key dimensions: **Distance Maintenance**, **Position Selection**, **Path Conflict**, and **Social Comfort**.
 
@@ -47,7 +47,7 @@ The scale has been rigorously tested in our study involving **17 volunteers** ac
 
 ---
 
-## ⚙️ Environment Setup
+##  Environment Setup
 
 The required dependencies are listed in `requirements.txt`. You can install them via:
 

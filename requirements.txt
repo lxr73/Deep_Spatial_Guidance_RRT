@@ -1,0 +1,12 @@
+vicon_dssdk
+opencv-python
+scipy
+torchvision
+pyyaml
+torch
+pyzmq
+open3d
+matplotlib
+networkx
+pandas
+numpy

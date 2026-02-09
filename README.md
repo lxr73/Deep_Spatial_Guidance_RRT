@@ -26,7 +26,7 @@ This repository is organized to distinguish between the core source code and the
 
 * **`requirements.txt`** A list of Python libraries and dependencies required to configure the environment.
 
-* **`SN-1 scale.pdf`** The 8-item **subjective evaluation questionnaire** used for human-robot interaction analysis.
+* **`SN-1 scale.pdf`** The 8-item **subjective evaluation questionnaire** used for social compliance analysis.
 
 * **`LICENSE`** Proprietary license restricting usage to academic review and verification only.
 
@@ -43,7 +43,7 @@ The scale has been rigorously tested in our study involving **17 volunteers** ac
     * Cronbach's $\alpha$: **0.767** (indicating satisfactory reliability).
 * **Construct Validity (Factor Analysis):**
     * KMO Measure of Sampling Adequacy: **0.753**.
-    * Bartlett's Test of Sphericity: **$\chi^2 = 126.57$, $df = 28$, $p < 0.001$**.
+    * Bartlett's Test of Sphericity: $\chi^2 = 126.57$, $df = 28$, $p < 0.001$.
 
 ---
 
